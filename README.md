@@ -1,3 +1,12 @@
+## 🧠 Part of Systems Lab
+
+This project is part of a broader exploration:
+
+→ understanding how systems behave when treated as interconnected
+
+Main repo:
+https://github.com/rasient/systems-lab
+
 # Global System Interactive Simulator
 
 A Streamlit-based interactive simulator for exploring how global systems evolve under pressure.
